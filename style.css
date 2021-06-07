@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: gold;
+}
+
+p{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+img {
+    width: 1000px;
+    height: 740px;
+}
+
+.head {
+    background-color: lightgreen;
+}
